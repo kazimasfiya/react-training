@@ -2,3 +2,7 @@ Chat requirement
 emoji
 type option
 vibrant
+
+
+dark mode 
+video
